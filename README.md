@@ -1,8 +1,11 @@
-jQuery Signature
+Bootstrap 4 jQuery Signature
 ================
+This plugin is allow you to create a signature and save it as JSON or SVG.
+And also has a sample of how to save this signature in MySQL.
 
-This plugin sets a div to allow capture of a signature and converts it to JSON or SVG for storage. Requires jQuery UI and ExCanvas (for IE).
+Plugin Origin
+================
+This plugin is forked at https://github.com/kbwood/signature, 
+For demonstrations of its abilities. http://keith-wood.name/signature.html
+For documentation on the functionality see . http://keith-wood.name/signatureRef.html
 
-Have a look at the plugin Web site, http://keith-wood.name/signature.html, for demonstrations of its abilities.
-
-For documentation on the functionality see http://keith-wood.name/signatureRef.html.
