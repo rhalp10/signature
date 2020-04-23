@@ -1,3 +1,5 @@
+
+![image](https://user-images.githubusercontent.com/13925864/80160133-6a9c3c00-85ff-11ea-89c5-588cf428bd51.png)
 Bootstrap 4 jQuery Signature
 ================
 This plugin is allow you to create a signature and save it as JSON or SVG.
