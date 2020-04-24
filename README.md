@@ -1,9 +1,11 @@
 
 ![image](https://user-images.githubusercontent.com/13925864/80160133-6a9c3c00-85ff-11ea-89c5-588cf428bd51.png)
-Bootstrap 4 jQuery Signature
+jQuery UI Signature Capture Saving Signature To MySQL Database
 ================
-This plugin is allow you to create a signature and save it as JSON or SVG.
-And also has a sample of how to save this signature in MySQL.
+ - This program allow you to create a signature in html5 canvas and save the signature as JSON or SVG then save the signature in MySQL.
+
+Preview:
+https://www.youtube.com/watch?v=nHgOZYoAwBQ
 
 Plugin Origin
 ================
