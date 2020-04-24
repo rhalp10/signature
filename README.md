@@ -1,6 +1,6 @@
 
 ![image](https://user-images.githubusercontent.com/13925864/80160133-6a9c3c00-85ff-11ea-89c5-588cf428bd51.png)
-jQuery UI Signature Capture Saving Signature To MySQL Database
+jQuery UI Signature Saving To MySQL Database Using PHP
 ================
  - This program allow you to create a signature in html5 canvas and save the signature as JSON or SVG then save the signature in MySQL.
 
