@@ -74,7 +74,7 @@
                             <button class="btn btn-outline-success" id="submit">SUBMIT</button>
                         </form>
                     </div>
-                    <div class="col-md-6">
+                    <div class="col-md-6 table-responsive">
                         <h2>Signature Table</h2>
                         <table class="table table-bordered" id="signatureTable">
                             <thead>
