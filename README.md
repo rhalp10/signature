@@ -13,3 +13,19 @@ This plugin is forked at https://github.com/kbwood/signature,
 For demonstrations of its abilities. http://keith-wood.name/signature.html
 For documentation on the functionality see . http://keith-wood.name/signatureRef.html
 
+
+Browser Support
+----------
+- IE 10 +
+- Microsoft Edge (Latest)
+- Mozilla Firefox (Latest)
+- Google Chrome (Latest)
+- Opera (Latest)
+- Safari (Latest)
+- Brave (Latest)
+
+Device Support
+----------
+ - Working in pc/laptops
+ - Touchscreen signature not working on phones/tablets
+
