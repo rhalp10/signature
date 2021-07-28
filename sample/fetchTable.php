@@ -26,6 +26,7 @@ else
 
 $result=mysqli_query($con,$query);
 $filtered_rows = mysqli_num_rows($result) ;
+$data = array();
 while( $row=mysqli_fetch_array($result) ) 
 { 
 
@@ -37,7 +38,6 @@ while( $row=mysqli_fetch_array($result) )
 		$sub_array[] = '
 		<div class="btn-group">
 		<button class="btn btn-primary" id="loadSignature" data-id="'.$row["ID"].'">Load</button>
-
 		<button class="btn btn-danger" id="deleteSignature" data-id="'.$row["ID"].'">Delete</button>
 		</div>
 		';
