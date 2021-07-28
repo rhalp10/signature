@@ -27,5 +27,6 @@ Browser Support
 Device Support
 ----------
  - Working in pc/laptops
- - Touchscreen signature not working on phones/tablets
+ - ~~Touchscreen signature not working on phones/tablets~~
+ - Touchscreen signature is now working on phones/tablets
 
